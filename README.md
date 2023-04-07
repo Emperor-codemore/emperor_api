@@ -1,2 +1,2 @@
-# emperor_api.github.io
+# emperor_api
 contains json files
